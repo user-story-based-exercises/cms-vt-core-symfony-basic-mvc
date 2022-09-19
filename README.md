@@ -21,7 +21,7 @@ In order to showcase the basic advantages of a PHP framework for separation of c
 - A single page rendering a static ranking for a single round of the tournament is available
 - TWIG is used for the View
 - The route name is /results/1 (later to be the variable round number)
-- A results entry consists of the following: paper plane model, travelled distance, flight duration, participant name, date
+- A result entry consists of the following: paper plane model, travelled distance, flight duration, participant name, date
 - Presentation takes the form of a simple table without special CSS
 - The detail view serves mock data defined in the controller
 
